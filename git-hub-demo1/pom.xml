@@ -56,7 +56,7 @@
         <snapshotRepository>
             <id>lxl-snapshots</id>
             <name>lxl-snapshots</name>
-            <url>http://localhost:8081/repository/lxl-snapshots/</url>
+            <url>http://172.20.10.3:8081/repository/lxl-snapshots/</url>
         </snapshotRepository>
     </distributionManagement> 
      
